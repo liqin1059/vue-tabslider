@@ -1,4 +1,4 @@
-# vue-tabslider
+# vue-tabslider vue tab滑动切换插件
 
 > A Vue.js project
 
