@@ -51,20 +51,6 @@ export default {
           name: '更多'
         }
       ],
-      contentData: [
-        {
-          background: '#d28888',
-          name: 'first'
-        },
-        {
-          background: '#9f96d0',
-          name: 'second'
-        },
-        {
-          background: '#96d0a5',
-          name: 'third'
-        }
-      ],
       titleStyles: {
         borderRight: '1px solid #333'
       },

@@ -52,7 +52,11 @@ export default {
     title: {
       type: Array,
       default: () => {
-        return [];
+        return [
+          {
+            name: '我的'
+          }
+        ];
       },
       required: false
     },
