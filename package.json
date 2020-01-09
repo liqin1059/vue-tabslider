@@ -3,8 +3,8 @@
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "liqin <1416385177@qq.com>",
-  "license": "",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "main": "dist/vue-tabslider.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",

@@ -36,7 +36,7 @@
 </template>
 <script>
 export default {
-  name: 'tabs',
+  name: 'vue-tabslider',
   components: {},
   props: {
     position: {

@@ -1,6 +1,7 @@
 <template>
 <div id="app">
-  <vue-tabslider :duration="300"
+  <vue-tabslider
+        :duration="300"
         :position="'top'"
         :title="titleData"
         :titleStyles="titleStyles"
@@ -25,13 +26,10 @@
 </div>
 </template>
 <script>
-import vueTabslider from './packages/tabslider';
+// import vueTabslider from './packages/tabslider';
 
 export default {
   name: 'tabs-example',
-  components: {
-    vueTabslider
-  },
   props: {},
   data() {
     return {
