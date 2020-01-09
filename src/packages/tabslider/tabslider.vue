@@ -166,7 +166,8 @@ export default {
   & > .tab-div{
     flex: 1;
     text-align: center;
-    line-height: 40px;
+    line-height: 100px;
+    font-size: 30px;
     cursor: pointer;
     &.title-active{
       color: rgb(112, 112, 241);

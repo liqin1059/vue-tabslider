@@ -76,7 +76,8 @@ export default {
         width: '100%'
       },
       activeStyle: {
-        color: '#745fe4'
+        color: '#745fe4',
+        fontSize: '30px'
       }
     };
   },
